@@ -1,0 +1,5 @@
+=> Taksonomi AI
+  adalah susunan hierarki sederhana yang menjelaskan bagaimana AI dapat terbagi menjadi beberapa lapisan: mulai dari AI secara umum, Machine Learning, Deep Learning, hingga Generative AI.
+=> Data
+  adalah informasi yang benar dan fakta
+  

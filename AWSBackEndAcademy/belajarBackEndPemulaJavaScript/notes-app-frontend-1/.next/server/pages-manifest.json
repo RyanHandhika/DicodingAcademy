@@ -1,0 +1,10 @@
+{
+  "/": "pages/index.html",
+  "/404": "pages/404.html",
+  "/_app": "pages/_app.js",
+  "/notes/new": "pages/notes/new.html",
+  "/_error": "pages/_error.js",
+  "/notes/[id]/edit": "pages/notes/[id]/edit.js",
+  "/_document": "pages/_document.js",
+  "/notes/[id]": "pages/notes/[id].js"
+}
